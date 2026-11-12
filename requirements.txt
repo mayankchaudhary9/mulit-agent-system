@@ -1,0 +1,41 @@
+# ==========================================
+# LLM & AI
+# ==========================================
+openai
+langchain
+langchain-core
+langchain-openai
+langchain-google-genai
+
+# ==========================================
+# Agents & Tools
+# ==========================================
+langchain-community
+langchain-classic
+tavily-python
+
+# ==========================================
+# Web Scraping
+# ==========================================
+beautifulsoup4
+requests
+httpx
+lxml
+
+# ==========================================
+# Environment Variables
+# ==========================================
+python-dotenv
+
+# ==========================================
+# Backend / API
+# ==========================================
+fastapi
+uvicorn[standard]
+pydantic
+
+# ==========================================
+# Utilities
+# ==========================================
+tenacity
+tiktoken
